@@ -63,9 +63,9 @@ __ACE Software Development intern wit AIESEC, Tata Consultancy Services, Mumbai_
 `2006 - 2007`
 __Developer of Software and Services, Mobi Solutions__
 
-* Worked on full-stack development of a platform to create SMS-based services,
+- Worked on full-stack development of a platform to create SMS-based services,
 implementing new features and imporving existing functionality (Java, SQL, Struts).
-* Developed the backend for a new version of the platform (Java, SQL).
+- Developed the backend for a new version of the platform (Java, SQL).
 
 ## __Education__
 
