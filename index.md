@@ -84,8 +84,10 @@ supervisors Jaak Vilo and Meelis Kull
 __BSc in Physics, University of Tartu__
 Thesis: Superconductive Properties in a Two-gap Model with a Metallic Spectrum", supervisor prof. N. Kristoffel
 
+<!---
 `2000 - 2003`
 __Secondary education, Tallinna Reaalkool__
+--->
 
 ## __Awards__
 
@@ -196,9 +198,11 @@ CERN Summer Student Programme
 
 ### Finance and Economics
 
-* [Macroeconomics for a Sustainable Planet](https://sdgacademy.org/course/macroeconomics-for-a-sustainable-planet/), SDGAcademy (Certificate of Proficiency with Distinction)
+`2017`
+[Macroeconomics for a Sustainable Planet](https://sdgacademy.org/course/macroeconomics-for-a-sustainable-planet/), SDGAcademy (Certificate of Proficiency with Distinction)
+
 `2015`
-Economics of Money and Banking, [part one](https://www.coursera.org/course/money) (97.5% score) and [part two](https://www.coursera.org/course/money2) (95% score), Columbia
+Economics of Money and Banking, [part one](https://www.coursera.org/course/money) (97% score) and [part two](https://www.coursera.org/course/money2) (95% score), Columbia
 
 `2013`
 [Introduction to Finance](https://www.coursera.org/course/introfinance) online course, Michigan (100% score)
