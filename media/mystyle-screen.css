@@ -89,6 +89,8 @@ ul {
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
     margin-right: 20%;
+    word-wrap: normal; 
+    word-break: break-all
 }
 
 /*uncomment to get dashes in the list*/
@@ -103,6 +105,9 @@ li {
 	padding-left: 1.25em;
 	text-indent: -1.25em;
     /*color: #777;*/
+    margin-right: 20%;
+    word-wrap: normal; 
+    word-break: break-all
 }
 
 li ul {
