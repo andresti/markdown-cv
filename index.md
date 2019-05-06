@@ -47,7 +47,7 @@ __INFN Fellowship, for non-Italian citizens for research activity in Experimenta
 `January - June 2017`
 __Researcher, KBFI (National Institute for Chemical Physics and Biophysics), Tallinn, Estonia__
 
-* Implemented the modelling and estimation of "charge flip" background that imitates the signal in a search for ttH production in final states with τ leptons
+* Implemented the modelling and estimation of "charge flip" background that imitates the signal in a  search for ttH production in final states with τ leptons
 
 `2010 - 2016`
 __Engineer, KBFI (National Institute for Chemical Physics and Biophysics), Tallinn, Estonia__
@@ -63,7 +63,7 @@ __ACE Software Development intern wit AIESEC, Tata Consultancy Services, Mumbai_
 `2006 - 2007`
 __Developer of Software and Services, Mobi Solutions__
 
-* Worked on full-stack development of a platform to create SMS-based services,
+* Worked on full-stack development of a platform to create SMS-based services,  
 implementing new features and imporving existing functionality (Java, SQL, Struts).
 * Developed the backend for a new version of the platform (Java, SQL).
 
