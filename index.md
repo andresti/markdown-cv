@@ -35,7 +35,7 @@ In any case, I'd like that somewhere to be intellectually stimulating and making
 * Italian, French - beginner
 -->
 
-## __Employment__
+## Employment
 
 `2017 - 2019`
 __INFN Fellowship, for non-Italian citizens for research activity in Experimental Physics, Italian National Institute for Nuclear Physics, Padova__
@@ -67,7 +67,7 @@ __Developer of Software and Services, Mobi Solutions__
 implementing new features and imporving existing functionality (Java, SQL, Struts).
 * Developed the backend for a new version of the platform (Java, SQL).
 
-## __Education__
+## Education
 
 `2010 - 2016`
 __PhD in Physics University of Tartu and National Institute of Chemical Physics and Biophysics__
@@ -89,7 +89,7 @@ Thesis: Superconductive Properties in a Two-gap Model with a Metallic Spectrum",
 __Secondary education, Tallinna Reaalkool__
 --->
 
-## __Awards__
+## Awards
 
 `2018`
 CMS Week in Budapest 2018, best poster award
@@ -112,7 +112,7 @@ Finnish-Estonian competition in Physics, 10th place, candidate for the Estonian 
 `2002 - 2003`
 Multiple awards in nationwide Physics and Mathematics competitions
 
-## __Other training__
+## Other training
 
 ### Data Science and Machine learning
 
@@ -215,7 +215,7 @@ Economics of Money and Banking, [part one](https://www.coursera.org/course/money
 `2014`
 [Model Thinking](https://www.coursera.org/learn/model-thinking) online course, Michigan (97% score)
 
-## __Public engagement and popular talks__
+## Public engagement and popular talks
 
 `2019`
 CERN Baltic Teacher Programme, [talk on Higgs boson physics and other things](https://indico.cern.ch/event/721827/contributions/3345709/attachments/1808499/2952631/CERN_teachers.pdf)
@@ -235,7 +235,7 @@ Talk „Discovery of the Higgs boson”, Estonian Physics Days
 `2003 - 2006`
 Organizer of University of Tartu Youth Academy Open Physics competitions in Tallinn
 
-## __Teaching and supervision__
+## Teaching and supervision
 
 `2014`
 Co-instructor in course „Experimental Particle Physics”, Tartu University
@@ -246,7 +246,7 @@ Co-instructor in course „Electrical circuits”, Tartu University
 `2012`
 Co-supervisor of Joosep Pata's bachelor's thesis „Supersymmetric Dark Matter”
 
-## __Selected publications__
+## Selected publications
 
 `2019`
 "Search for nonresonant Higgs boson pair production in the bbbb final state at √s = 13 TeV" CMS Collaboration, [Journal of High Energy Physics 04 (2019) 112](https://arxiv.org/abs/1810.11854).
@@ -272,7 +272,7 @@ CMS Collaboration. [Journal of High Energy Phyiscs 04 (2016) 073](https://arxiv.
 
 Full list of publications [here](http://inspirehep.net/author/A.Tiko.2/).
 
-## __Scientific Presentations__
+## Scientific Presentations
 
 `2018`
 Poster “Search for nonresonant Higgs boson pair production with the CMS
