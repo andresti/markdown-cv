@@ -44,7 +44,7 @@ __INFN Fellowship, for non-Italian citizens for research activity in Experimenta
 * Worked on applying a novel statistical method to astrophysical data (in progress)
 * Took care of the operation of the CMS detector as a data acquisiton (DAQ) shifter
 
-`2017 January - June`
+`January - June 2017`
 __Researcher, KBFI (National Institute for Chemical Physics and Biophysics), Tallinn, Estonia__
 
 * Implemented the modelling and estimation of "charge flip" background that imitates the signal in a search for ttH production in final states with τ leptons
