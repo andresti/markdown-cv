@@ -89,7 +89,7 @@ ul {
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
     margin-right: 20%;
-    word-wrap: normal;     
+    overflow-wrap: normal;     
 }
 
 /*uncomment to get dashes in the list*/
@@ -111,7 +111,7 @@ li ul {
 	left: 0;
 	width: 75%;
     margin-top: 0.25em;
-    padding-left: 2em
+    margin-left: 2em
 }
 
 h1,h2,h3,h4 {
