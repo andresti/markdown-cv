@@ -9,7 +9,7 @@ Retiring particle Physicist.
 --->
 
 [e-mail](mailto:tikoandres+cv@gmail.com) |
-[LinkedIn](https://www.linkedin.com/in/tiko/)
+[Linkedin](https://www.linkedin.com/in/tiko/)
 
 ## Introduction
 
