@@ -13,10 +13,10 @@ Retiring particle Physicist.
 
 ## Introduction
 
-For recent years I've been around the world, working as a particle Physicist at the CMS experiment at CERN, analyzing data collected from particle collisions to measure Nature's most fundamental processes. It's just like data science, but for physicists. I've presented my (and other people's) work in international conferences and received prizes for my posters.
+During the recent years I've been working as a particle Physicist at the CMS experiment at CERN, analyzing data collected from particle collisions to measure Nature's most fundamental processes. I've presented my (and other people's) work in international conferences and received prizes for my posters.
+The skills I've obtained, together with my previous experience in computer science and software development, give me a good background to solve various quantitative problems.
 
-Now I'm looking to apply my skills in a place where practical results of my work could be seen in my lifetime or even sooner :)
-In any case, I'd like that somewhere to be intellectually stimulating and making the world a better place in some way.
+Now I'm looking to apply my skills in a place where practical results of my work could be seen in my lifetime or even sooner in addition to being intellectually stimulating and improving the world in some way.
 
 ## Skills
 
@@ -41,7 +41,7 @@ In any case, I'd like that somewhere to be intellectually stimulating and making
 __INFN Fellowship, for non-Italian citizens for research activity in Experimental Physics, Italian National Institute for Nuclear Physics, Padova__
 
 * Became the lead author for the analysis "Search for nonresonant Higgs boson pair production in the bbbb final state" and lead it to publication
-* Worked on applying a novel statistical method to astrophysical data (in progress)
+* Working on applying a novel statistical method to astrophysical data (in progress)
 * Took care of the operation of the CMS detector as a data acquisiton (DAQ) shifter
 
 `January - June 2017`
@@ -53,8 +53,8 @@ in final states with τ leptons
 `2010 - 2016`
 __Engineer, KBFI (National Institute for Chemical Physics and Biophysics), Tallinn, Estonia__
 
-* Worked on the analysis of data collected by the CMS experiment, eventually resulting in the completion of my PhD thesis
-* Investigated the 
+* Worked on the analysis of data collected by the CMS experiment, resulting in multiple publications and the completion of my PhD thesis
+<!--- * Learned the necessary skills, including data analysis, statistics etc. --->
 
 `2009 - 2010`
 __ACE Software Development intern wit AIESEC, Tata Consultancy Services, Mumbai__
@@ -113,6 +113,97 @@ Finnish-Estonian competition in Physics, 10th place, candidate for the Estonian 
 
 `2002 - 2003`
 Multiple awards in nationwide Physics and Mathematics competitions
+
+## Public engagement and popular talks
+
+`2019`
+CERN Baltic Teacher Programme, [talk on Higgs boson physics and other things](https://indico.cern.ch/event/721827/contributions/3345709/attachments/1808499/2952631/CERN_teachers.pdf)
+
+`2018 - 2019`
+Tour guide for CMS experiment at CERN, certified in first aid
+
+`2017`
+[Talk on applications of AI at CERN](https://docs.google.com/presentation/d/1aGet21SGJ1ak4O6-Urosc1K9t7SRWOf8wqklD6B8gLE/edit) (In Estonian) ([FB event](https://www.facebook.com/events/1885786008325977/))
+
+`2014`
+Talk „Discovery of the Higgs boson”, Estonian Physics Days
+
+<!---
+2003 - 2016              	Member of Estonian Physical Society 
+-->
+`2003 - 2006`
+Organizer of University of Tartu Youth Academy Open Physics competitions in Tallinn
+
+## Teaching and supervision
+
+`2014`
+Co-instructor in course „Experimental Particle Physics”, University of Tartu
+
+`2013`
+Co-instructor in course „Electrical circuits”, University of Tartu
+
+`2012`
+Co-supervisor of Joosep Pata's bachelor's thesis „Supersymmetric Dark Matter”
+
+## Selected publications
+
+`2019`
+"Search for nonresonant Higgs boson pair production in the bbbb final state at √s = 13 TeV" CMS Collaboration, [Journal of High Energy Physics 04 (2019) 112](https://arxiv.org/abs/1810.11854).
+
+`2018`
+"Evidence for associated production of a Higgs boson with a top quark pair in final states with electrons, muons, and hadronically decaying τ leptons at √s = 13 TeV",
+CMS Collaboration. [Journal of High Energy Physics 08 (2018) 066](https://arxiv.org/abs/1803.05485)
+
+`2016`
+"Measurement of top quark polarisation in t-channel single top quark production",
+CMS Collaboration. [Journal of High Energy Phyiscs 04 (2016) 073](https://arxiv.org/abs/1511.02138)
+
+`2014`
+"Measurement of the t-channel single-top-quark production cross section and of the ∣Vtb∣ CKM matrix element in pp collisions at √s = 8 TeV", CMS Collaboration. [Journal of High Energy Physics, 06 (2014) 090](https://arxiv.org/abs/1403.7366)
+
+<!---
+`2012`
+"Measurement of the single-top-quark t-channel cross section in pp collisions at √s=7 TeV", CMS Collaboration. [Journal of High Energy Physics, 12 (2012) 035](https://arxiv.org/abs/1209.4533)
+-->
+
+`2012`
+"A search for a doubly-charged Higgs boson in pp collisions at √s=7 TeV", CMS Collaboration. [European Physical Journal C, 72 (2012) 2189](https://arxiv.org/abs/1207.2666)
+
+Full list of publications [here](http://inspirehep.net/author/A.Tiko.2/).
+
+## Scientific Presentations
+
+`2018`
+Poster “Search for nonresonant Higgs boson pair production with the CMS
+detector”. CMS Week, Budapest
+
+`2018`
+Plenary talk  ["Resonant HH searches at ATLAS and CMS”](https://indico.cern.ch/event/732102/contributions/3092616/attachments/1763018/2861032/HHres_HC_tiko.pdf). Higgs Couplings workshop, Tokyo.
+
+`2018`
+Talk [“CMS HH → 4b analysis strategy, with focus on nonresonant”](https://indico.cern.ch/event/731450/contributions/3090099/attachments/1711319/2759009/slides_HH4b_Fermilab_tiko.pdf). Double Higgs in Colliders workshop, Fermilab.
+
+`2017`
+Talk “Search for non-resonant HH → bbbb production”. 3rd CMS HH Workshop, Paris
+
+`2016`
+Poster “Measurement of top quark polarisation in t-channel single top quark
+production”. TOP2016: 9th International Workshop on Top Quark Physics, Olomouc
+
+`2015`
+Parallel talk [“Measurement of top quark properties in single top production”](https://indico.cern.ch/event/356420/contributions/1764117/attachments/1131984/1618260/singletop_tiko_eps2015.pdf). EPS-HEP 2015: European Physical Society Conference on High Energy Physics, Vienna
+
+`2014`
+Poster „Measurement of top quark polarization in t-channel single-top production,” LHC students poster session, CERN
+
+`2014`
+Poster "Measurement of top quark polarization in t-channel single-top production”. FMTDK doctoral school conference, Tartu
+
+`2013`
+Talk „Measurement of top polarization in t-channel single-top roduction in pp collisions at sqrt(s)=8 TeV” Tartu-Tuorla cosmology conference
+
+`2012`
+Talk „Measuring top properties with the CMS detector” at the seminar “From Cosmology to HEP and vice versa” of the Dark Matter in (Astro)particle Physics and Cosmology Centre of Excellence, Tallinn
 
 ## Other training
 
@@ -206,9 +297,11 @@ CERN Summer Student Programme
 `2015`
 Economics of Money and Banking, [part one](https://www.coursera.org/course/money) (97% score) and [part two](https://www.coursera.org/course/money2) (95% score), Columbia
 
+<!---
 `2013`
 [Introduction to Finance](https://www.coursera.org/course/introfinance) online course, Michigan (100% score)
-
+--->
+<!---
 ### General
 
 `2016`
@@ -216,97 +309,7 @@ Economics of Money and Banking, [part one](https://www.coursera.org/course/money
 
 `2014`
 [Model Thinking](https://www.coursera.org/learn/model-thinking) online course, Michigan (97% score)
-
-## Public engagement and popular talks
-
-`2019`
-CERN Baltic Teacher Programme, [talk on Higgs boson physics and other things](https://indico.cern.ch/event/721827/contributions/3345709/attachments/1808499/2952631/CERN_teachers.pdf)
-
-`2018 - 2019`
-Tour guide for CMS experiment at CERN, certified in first aid
-
-`2017`
-[Talk on applications of AI at CERN](https://docs.google.com/presentation/d/1aGet21SGJ1ak4O6-Urosc1K9t7SRWOf8wqklD6B8gLE/edit) (In Estonian) ([FB event](https://www.facebook.com/events/1885786008325977/))
-
-`2014`
-Talk „Discovery of the Higgs boson”, Estonian Physics Days
-
-<!---
-2003 - 2016              	Member of Estonian Physical Society 
--->
-`2003 - 2006`
-Organizer of University of Tartu Youth Academy Open Physics competitions in Tallinn
-
-## Teaching and supervision
-
-`2014`
-Co-instructor in course „Experimental Particle Physics”, Tartu University
-
-`2013`
-Co-instructor in course „Electrical circuits”, Tartu University
-
-`2012`
-Co-supervisor of Joosep Pata's bachelor's thesis „Supersymmetric Dark Matter”
-
-## Selected publications
-
-`2019`
-"Search for nonresonant Higgs boson pair production in the bbbb final state at √s = 13 TeV" CMS Collaboration, [Journal of High Energy Physics 04 (2019) 112](https://arxiv.org/abs/1810.11854).
-
-`2018`
-"Evidence for associated production of a Higgs boson with a top quark pair in final states with electrons, muons, and hadronically decaying τ leptons at √s = 13 TeV",
-CMS Collaboration. [Journal of High Energy Physics 08 (2018) 066](https://arxiv.org/abs/1803.05485)
-
-`2016`
-"Measurement of top quark polarisation in t-channel single top quark production",
-CMS Collaboration. [Journal of High Energy Phyiscs 04 (2016) 073](https://arxiv.org/abs/1511.02138)
-
-`2014`
-"Measurement of the t-channel single-top-quark production cross section and of the ∣Vtb∣ CKM matrix element in pp collisions at √s = 8 TeV", CMS Collaboration. [Journal of High Energy Physics, 06 (2014) 090](https://arxiv.org/abs/1403.7366)
-
-<!---
-`2012`
-"Measurement of the single-top-quark t-channel cross section in pp collisions at √s=7 TeV", CMS Collaboration. [Journal of High Energy Physics, 12 (2012) 035](https://arxiv.org/abs/1209.4533)
--->
-
-`2012`
-"A search for a doubly-charged Higgs boson in pp collisions at √s=7 TeV", CMS Collaboration. [European Physical Journal C, 72 (2012) 2189](https://arxiv.org/abs/1207.2666)
-
-Full list of publications [here](http://inspirehep.net/author/A.Tiko.2/).
-
-## Scientific Presentations
-
-`2018`
-Poster “Search for nonresonant Higgs boson pair production with the CMS
-detector”. CMS Week, Budapest
-
-`2018`
-Plenary talk  ["Resonant HH searches at ATLAS and CMS”](https://indico.cern.ch/event/732102/contributions/3092616/attachments/1763018/2861032/HHres_HC_tiko.pdf). Higgs Couplings workshop, Tokyo.
-
-`2018`
-Talk [“CMS HH → 4b analysis strategy, with focus on nonresonant”](https://indico.cern.ch/event/731450/contributions/3090099/attachments/1711319/2759009/slides_HH4b_Fermilab_tiko.pdf). Double Higgs in Colliders workshop, Fermilab.
-
-`2017`
-Talk “Search for non-resonant HH → bbbb production”. 3rd CMS HH Workshop, Paris
-
-`2016`
-Poster “Measurement of top quark polarisation in t-channel single top quark
-production”. TOP2016: 9th International Workshop on Top Quark Physics, Olomouc
-
-`2015`
-Parallel talk [“Measurement of top quark properties in single top production”](https://indico.cern.ch/event/356420/contributions/1764117/attachments/1131984/1618260/singletop_tiko_eps2015.pdf). EPS-HEP 2015: European Physical Society Conference on High Energy Physics, Vienna
-
-`2014`
-Poster „Measurement of top quark polarization in t-channel single-top production,” LHC students poster session, CERN
-
-`2014`
-Poster "Measurement of top quark polarization in t-channel single-top production”. FMTDK doctoral school conference, Tartu
-
-`2013`
-Talk „Measurement of top polarization in t-channel single-top roduction in pp collisions at sqrt(s)=8 TeV” Tartu-Tuorla cosmology conference
-
-`2012`
-Talk „Measuring top properties with the CMS detector” at the seminar “From Cosmology to HEP and vice versa” of the Dark Matter in (Astro)particle Physics and Cosmology Centre of Excellence, Tallinn
+--->
 
 <!---
 ### Hobbies
