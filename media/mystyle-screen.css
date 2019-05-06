@@ -104,16 +104,13 @@ li {
 	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
-    /*color: #777;*/
-    margin-right: 20%;
-    word-wrap: normal; 
-    word-break: break-all
+    /*color: #777;*/    
 }
 
 li ul {
 	position: relative;
 	left: 0;
-	width: 100%;
+	width: 75%;
     margin-top: 0.25em;
 }
 
@@ -145,6 +142,7 @@ h2 {
 	top: 1.4em;
 	text-align: right;
 	width: 20%;
+    font-weight: bold
 }
 
 h3 {
