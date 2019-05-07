@@ -16,7 +16,7 @@ Retiring particle Physicist.
 During the recent years I've been working as a particle Physicist at the CMS experiment at CERN, analyzing data collected from particle collisions to measure Nature's most fundamental processes. I've presented my (and other people's) work in international conferences and received prizes for my posters.
 The skills I've obtained, together with my previous experience in computer science and software development, give me a good background to solve various quantitative problems.
 
-Now I'm looking to apply my skills in a place where practical results of my work could be seen in my lifetime or even sooner in addition to being intellectually stimulating and improving the world in some way.
+Now I'm looking to apply my skills in a place where practical results of my work could be seen in my lifetime (or even sooner), in addition to being intellectually stimulating and improving the world in some way.
 
 ## Skills
 
