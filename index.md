@@ -4,24 +4,24 @@ title: CV
 ---
 # Andres Tiko
 
-<!---
-Retiring particle Physicist.
---->
+Software developer, machine learning practitioner, retired particle physicist
 
 [e-mail](mailto:tikoandres+cv@gmail.com) |
 [Linkedin](https://www.linkedin.com/in/tiko/)
 
 ## Introduction
 
-During the recent years I've been working as a particle Physicist at the CMS experiment at CERN, analyzing data collected from particle collisions to measure Nature's most fundamental processes. I've presented my (and other people's) work in international conferences and received prizes for my posters.
-The skills I've obtained, together with my previous experience in computer science and software development, give me a good background to solve various quantitative problems.
+My background is working on the front lines of science as a particle Physicist at the CMS experiment at CERN, analyzing data collected from particle collisions to measure Nature's most fundamental processes. I've presented my (and other people's) work in international conferences and received prizes for my posters.
+The skills I obtained, together with my previous experience in computer science and software development, have given me a good background to solve various quantitative problems.
 
-Now I'm looking to apply my skills in a place where practical results of my work could be seen in my lifetime (or even sooner), in addition to being intellectually stimulating and improving the world in some way.
+These days, I'm applying my skills for more practical problems, working on software development and machine learning problems in NLP.
+<!-- Always up for new intellectually stimulating problems to improve the world in some way. -->
+
 
 ## Skills
 
-* Programming and software development (Python, Bash, git, SQL, C/C++, Java)
-* Data analysis (Scikit-learn, Pandas, XGBoost, ROOT)
+* Programming and software development (Python, Tornado, Bash, git, SQL, C/C++, Java)
+* Data analysis and machine learning (Scikit-learn, Pandas, fastai, PyTorch, XGBoost, ROOT)
 * Research
 * Problem solving
 * Presenting (Latex, HTML, talks, posters)
@@ -37,12 +37,19 @@ Now I'm looking to apply my skills in a place where practical results of my work
 
 ## Employment
 
+`2019 - `
+__Back-end developer, data scientist, AlphaBlues__
+
+* Developing and applying machine learning models to natural language processing in virtual assistants
+* Improving security of web applications
+* Developing web services using Python, Tornado and MongoDB
+
 `2017 - 2019`
 __INFN Fellowship, for non-Italian citizens for research activity in Experimental Physics, Italian National Institute for Nuclear Physics, Padova__
 
 * Became the lead author for the analysis "Search for nonresonant Higgs boson pair production in the bbbb final state" and lead it to publication
-* Working on applying a novel statistical method to astrophysical data (in progress)
-* Took care of the operation of the CMS detector as a data acquisiton (DAQ) shifter
+* Worked on applying a novel statistical method to astrophysical data
+* Took care of the operation of the CMS detector as a data acquisition (DAQ) shifter
 
 `January - June 2017`
 __Researcher, KBFI (National Institute for Chemical Physics and Biophysics), Tallinn, Estonia__
