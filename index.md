@@ -11,15 +11,11 @@ Software developer, machine learning practitioner, retired particle physicist
 
 ## Introduction
 
-For many years, I worked on the front lines of science as a particle physicist at the CMS experiment at CERN, 
-analyzing data collected from particle collisions to measure Nature's most fundamental processes. 
-I've presented my (and other people's) work in international conferences and received prizes for my posters.
+For many years, I worked on the front lines of science as a particle physicist at the CMS experiment at CERN, analyzing data collected from particle collisions to measure Nature's most fundamental processes. I've presented my (and other people's) work in international conferences and received prizes for my posters.
 
-At various other times I've also studied computer science and worked on practical business problems as a software developer.
-The unique skill set obtained through these experiences has given me a good background to solve various quantitative problems.
+At various other times I've also studied computer science and worked on practical business problems as a software developer. The unique skill set obtained through these experiences has given me a good background to solve various quantitative problems.
 
-Nowadays, I'm mostly interested in applying my skills to topics connected to machine learning, in which I have experience starting from my Master's studies, through
-my career in physics up to my current job in creating virtual assistants.
+Nowadays, I'm mostly interested in applying my skills to topics connected to machine learning, in which I have experience starting from my Master's studies, through my career in physics up to my current job in creating virtual assistants.
 
 <!-- Always up for new intellectually stimulating problems to improve the world in some way. -->
 
