@@ -11,10 +11,11 @@ Software developer, machine learning practitioner, retired particle physicist
 
 ## Introduction
 
-For many years, I worked on the front lines of science as a particle Physicist at the CMS experiment at CERN, 
+For many years, I worked on the front lines of science as a particle physicist at the CMS experiment at CERN, 
 analyzing data collected from particle collisions to measure Nature's most fundamental processes. 
 I've presented my (and other people's) work in international conferences and received prizes for my posters.
-At various other times I've also studied computer science and worked on practical business problems as a software developer
+
+At various other times I've also studied computer science and worked on practical business problems as a software developer.
 The unique skill set obtained through these experiences has given me a good background to solve various quantitative problems.
 
 Nowadays, I'm mostly interested in applying my skills to topics connected to machine learning.
@@ -65,7 +66,7 @@ __INFN Fellowship, for non-Italian citizens for research activity in Experimenta
 
 
 `2010 - 2017`
-__Engineer and Researcer, KBFI (National Institute for Chemical Physics and Biophysics), Tallinn, Estonia__
+__Engineer and Researcher, KBFI (National Institute for Chemical Physics and Biophysics), Tallinn, Estonia__
 
 * Worked on the analysis of data collected by the CMS experiment, resulting in multiple publications and the completion of my PhD thesis
 <!--- * Learned the necessary skills, including data analysis, statistics etc. --->
@@ -86,17 +87,18 @@ __Developer of Software and Services, Mobi Solutions__
 `2010 - 2016`
 __PhD in Physics University of Tartu and National Institute of Chemical Physics and Biophysics__
 
-Thesis: ["Measurement of Top Quark Properties in the CMS experiment at the LHC"](http://dspace.ut.ee/handle/10062/53780),
+* Thesis: ["Measurement of Top Quark Properties in the CMS experiment at the LHC"](http://dspace.ut.ee/handle/10062/53780),
 supervisors Andrea Giammanco, Mario Kadastik, Martti Raidal
 
 `2007 - 2009`
 __MSc in Computer Science, University of Tartu__
-Thesis: "Ripple-Down Rule Sets and MDL Learning"
-supervisors Jaak Vilo and Meelis Kull
+
+* Thesis: "Ripple-Down Rule Sets and MDL Learning", supervisors Jaak Vilo and Meelis Kull
 
 `2003 - 2007`
 __BSc in Physics, University of Tartu__
-Thesis: "Superconductive Properties in a Two-gap Model with a Metallic Spectrum", supervisor prof. N. Kristoffel
+
+* Thesis: "Superconductive Properties in a Two-gap Model with a Metallic Spectrum", supervisor N. Kristoffel
 
 <!---
 `2000 - 2003`
@@ -249,6 +251,8 @@ Part of CERN Whitehat programme for web application penetration testing, top of 
 `2018-2019`
 Ranked 10th in Kaggle [20 Newsgroups Ciphertext Challenge](https://www.kaggle.com/c/20-newsgroups-ciphertext-challenge)
 
+`2018`
+[Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency), Princeton (98% score)
 
 ### General Computer Science
 
