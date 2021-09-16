@@ -11,20 +11,29 @@ Software developer, machine learning practitioner, retired particle physicist
 
 ## Introduction
 
-My background is working on the front lines of science as a particle Physicist at the CMS experiment at CERN, analyzing data collected from particle collisions to measure Nature's most fundamental processes. I've presented my (and other people's) work in international conferences and received prizes for my posters.
-The skills I obtained, together with my previous experience in computer science and software development, have given me a good background to solve various quantitative problems.
+For many years, I worked on the front lines of science as a particle Physicist at the CMS experiment at CERN, 
+analyzing data collected from particle collisions to measure Nature's most fundamental processes. 
+I've presented my (and other people's) work in international conferences and received prizes for my posters.
+At various other times I've also studied computer science and worked on practical business problems as a software developer
+The unique skill set obtained through these experiences has given me a good background to solve various quantitative problems.
 
-These days, I'm applying my skills for more practical problems, working on software development and machine learning problems in NLP.
+Nowadays, I'm mostly interested in applying my skills to topics connected to machine learning.
+I first worked on machine learning during my Masters studies, where my topic was about using the minimal description length (MDL) principle to 
+learn rule sets with exceptions that are also naturally understandable to humans.
+Afterwards, I worked in experimental particle physics, where an important issue is signal-background separation and used various classification methods for this.
+But I also used other methods such as clustering to better and more efficiently model the underlying physical processes.
+Currently I'm focused on creating virtual customer service assistants, working on software development and machine learning problems in natural language processing.
+
 <!-- Always up for new intellectually stimulating problems to improve the world in some way. -->
 
 
 ## Skills
 
-* Programming and software development (Python, Tornado, Bash, git, SQL, C/C++, Java)
-* Data analysis and machine learning (Scikit-learn, Pandas, fastai, PyTorch, XGBoost, ROOT)
+* Data analysis and machine learning (Scikit-learn, Pandas, fastai, PyTorch, XGBoost)
 * Research
+* Programming and software development (Python, Tornado, bash, git, SQL, C/C++, Java)
 * Problem solving
-* Presenting (Latex, HTML, talks, posters)
+* Presenting 
 
 <!--- 
 ### Languages
@@ -38,60 +47,56 @@ These days, I'm applying my skills for more practical problems, working on softw
 ## Employment
 
 `2019 - `
-__Back-end developer, data scientist, AlphaBlues__
+__Back-end developer, data scientist, AlphaBlues, a company developing automated customer service solutions using virtual assistants__
 
-* Developing and applying machine learning models to natural language processing in virtual assistants
-* Improving security of web applications
-* Developing web services using Python, Tornado and MongoDB
+* Introduced modern deep learning based models for detecting the intent of a user interacting with a virtual assistant.
+* Architected and developed the pipelines and back-end systems for training and deployment of those models.
+* Created tools to help users add training data where it is needed as well as gain insights about how the system is performing.
+* Developing asynchronous web services using and improving their security
+* Main tools: python, fast.ai, PyTorch, Pandas, Tornado web server, MongoDB 
 
 `2017 - 2019`
 __INFN Fellowship, for non-Italian citizens for research activity in Experimental Physics, Italian National Institute for Nuclear Physics, Padova__
 
-* Became the lead author for the analysis "Search for nonresonant Higgs boson pair production in the bbbb final state" and lead it to publication
-* Worked on applying a novel statistical method to astrophysical data
+* Became the lead author for the analysis "Search for nonresonant Higgs boson pair production in the bbbb final state" and lead it to publication: 
+[Journal of High Energy Physics 04 (2019) 112](https://arxiv.org/abs/1810.11854) - the analysis is based on novel idea for modelling the hard to simulate QCD multijet process using clustering 
 * Took care of the operation of the CMS detector as a data acquisition (DAQ) shifter
+* Main tools used: python, numpy, scikit-learn, Pandas, C++
 
-`January - June 2017`
-__Researcher, KBFI (National Institute for Chemical Physics and Biophysics), Tallinn, Estonia__
 
-* Implemented the modelling and estimation of "charge flip" background that imitates the signal in a search for ttH production  
-in final states with τ leptons
-
-`2010 - 2016`
-__Engineer, KBFI (National Institute for Chemical Physics and Biophysics), Tallinn, Estonia__
+`2010 - 2017`
+__Engineer and Researcer, KBFI (National Institute for Chemical Physics and Biophysics), Tallinn, Estonia__
 
 * Worked on the analysis of data collected by the CMS experiment, resulting in multiple publications and the completion of my PhD thesis
 <!--- * Learned the necessary skills, including data analysis, statistics etc. --->
 
 `2009 - 2010`
-__ACE Software Development intern wit AIESEC, Tata Consultancy Services, Mumbai__
+__ACE Software Development intern with AIESEC, Tata Consultancy Services, Mumbai, India__
 
 * Developed enterprise resource planning software for manufacturers (Java, SQL).
 
 `2006 - 2007`
 __Developer of Software and Services, Mobi Solutions__
 
-* Worked on full-stack development of a platform to create SMS-based services, 
-implementing new features and  
-improving existing functionality (Java, SQL, Struts).
-* Developed the backend for a new version of the platform (Java, SQL).
+* Worked on full-stack development of a platform to create SMS-based services, implementing new features and improving existing functionality (Java, SQL, Struts).
+* Developed the backend for a new version of the platform - Fortumo (Java, SQL).
 
 ## Education
 
 `2010 - 2016`
 __PhD in Physics University of Tartu and National Institute of Chemical Physics and Biophysics__
 
-Thesis: [Measurement of Top Quark Properties in the CMS experiment at the LHC](http://dspace.ut.ee/handle/10062/53780),
+Thesis: ["Measurement of Top Quark Properties in the CMS experiment at the LHC"](http://dspace.ut.ee/handle/10062/53780),
 supervisors Andrea Giammanco, Mario Kadastik, Martti Raidal
 
 `2007 - 2009`
 __MSc in Computer Science, University of Tartu__
-Thesis: Ripple-Down Rule Sets and MDL Learning,
+Thesis: "Ripple-Down Rule Sets and MDL Learning"
 supervisors Jaak Vilo and Meelis Kull
 
 `2003 - 2007`
 __BSc in Physics, University of Tartu__
-Thesis: Superconductive Properties in a Two-gap Model with a Metallic Spectrum", supervisor prof. N. Kristoffel
+Thesis: "Superconductive Properties in a Two-gap Model with a Metallic Spectrum", supervisor prof. N. Kristoffel
 
 <!---
 `2000 - 2003`
@@ -135,11 +140,6 @@ Tour guide for CMS experiment at CERN, certified in first aid
 `2014`
 Talk „Discovery of the Higgs boson”, Estonian Physics Days
 
-<!---
-2003 - 2016              	Member of Estonian Physical Society 
--->
-`2003 - 2006`
-Organizer of University of Tartu Youth Academy Open Physics competitions in Tallinn
 
 ## Teaching and supervision
 
@@ -176,7 +176,7 @@ CMS Collaboration. [Journal of High Energy Phyiscs 04 (2016) 073](https://arxiv.
 `2012`
 "A search for a doubly-charged Higgs boson in pp collisions at √s=7 TeV", CMS Collaboration. [European Physical Journal C, 72 (2012) 2189](https://arxiv.org/abs/1207.2666)
 
-Full list of publications [here](http://inspirehep.net/author/A.Tiko.2/).
+Full list of publications [here](https://inspirehep.net/author/A.Tiko.2/).
 
 ## Scientific Presentations
 
@@ -223,7 +223,8 @@ Talk „Measuring top properties with the CMS detector” at the seminar “From
 [Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu) online course, MIT
 
 `2016 - 2017`
-[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016) online course, Stanford. Also attended analogous course in University of Padova, given by Trevor Hastie.
+[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016) online course, Stanford. 
+Also attended analogous course in University of Padova, given by Trevor Hastie.
 
 `2016`
 [Analytics Edge](https://www.edx.org/course/the-analytics-edge-0) online course, MITx (95% score)
@@ -248,75 +249,13 @@ Part of CERN Whitehat programme for web application penetration testing, top of 
 `2018-2019`
 Ranked 10th in Kaggle [20 Newsgroups Ciphertext Challenge](https://www.kaggle.com/c/20-newsgroups-ciphertext-challenge)
 
-`2018`
-[Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency), Princeton (98% score)
 
 ### General Computer Science
 
 `2017`
 ESC 2017 - Ninth INFN International School on Architectures, tools and methodologies for developing efficient large scale scientific computing applications
 
-`2008`
-Estonian Summer School in Computer and Systems Science
 
-<!---
-[//]: # 2002 – 2003		Programming in Java, The Gifted and Talented Development Centre, University of Tartu (GTDC) 
-
-[//]: # 2001 – 2003		GTDC courses in Computer Science and Mathematics
-
-[//]: # 1998 – 1999		Programming in Pascal, Mainor School of Economics 
--->
-
-### Physics
-
-`2011 - 2019`
-Member of the CMS experiment at CERN
-
-`2017`
-[Fractals and Scaling](https://www.complexityexplorer.org/courses/62-fractals-and-scaling-2017) online course, Santa Fe (95% score)
-
-`2016`
-[Introduction to Dynamical Systems and Chaos](https://www.complexityexplorer.org/courses/61-introduction-to-dynamical-systems-and-chaos-summer-2016) online course, Santa Fe
-
-`2012`
-CMS Data Analysis School
-
-`2012`
-Prospects of Particle Physics Winter School
-
-`2012`
-European School of High Energy Physics
-
-`2011`
-Origin of Mass Training School
-
-`2008`
-CERN Summer Student Programme
-<!---
-[//]: # 2003 – 2007 Estonian Physical Society's Summer and Autumn Schools for Young Physicists
--->
-
-### Finance and Economics
-
-`2017`
-[Macroeconomics for a Sustainable Planet](https://sdgacademy.org/course/macroeconomics-for-a-sustainable-planet/), SDGAcademy (Certificate of Proficiency with Distinction)
-
-`2015`
-Economics of Money and Banking, [part one](https://www.coursera.org/course/money) (97% score) and [part two](https://www.coursera.org/course/money2) (95% score), Columbia
-
-<!---
-`2013`
-[Introduction to Finance](https://www.coursera.org/course/introfinance) online course, Michigan (100% score)
---->
-<!---
-### General
-
-`2016`
-[Minds and Machines](https://courses.edx.org/courses/course-v1:MITx+24.09x+3T2017/course/) online course, MITx (87% score)
-
-`2014`
-[Model Thinking](https://www.coursera.org/learn/model-thinking) online course, Michigan (97% score)
---->
 
 <!---
 ### Hobbies
