@@ -18,12 +18,8 @@ I've presented my (and other people's) work in international conferences and rec
 At various other times I've also studied computer science and worked on practical business problems as a software developer.
 The unique skill set obtained through these experiences has given me a good background to solve various quantitative problems.
 
-Nowadays, I'm mostly interested in applying my skills to topics connected to machine learning.
-I first worked on machine learning during my Masters studies, where my topic was about using the minimal description length (MDL) principle to 
-learn rule sets with exceptions that are also naturally understandable to humans.
-Afterwards, I worked in experimental particle physics, where an important issue is signal-background separation and used various classification methods for this.
-But I also used other methods such as clustering to better and more efficiently model the underlying physical processes.
-Currently I'm focused on creating virtual customer service assistants, working on software development and machine learning problems in natural language processing.
+Nowadays, I'm mostly interested in applying my skills to topics connected to machine learning, in which I have experience starting from my Master's studies, through
+my career in physics up to my current job in creating virtual assistants.
 
 <!-- Always up for new intellectually stimulating problems to improve the world in some way. -->
 
@@ -50,20 +46,21 @@ Currently I'm focused on creating virtual customer service assistants, working o
 `2019 - `
 __Back-end developer, data scientist, AlphaBlues, a company developing automated customer service solutions using virtual assistants__
 
-* Introduced modern deep learning based models for detecting the intent of a user interacting with a virtual assistant.
+* Introduced modern deep learning based models for natural language processing (NLP) for detecting the intent of a user interacting with a virtual assistant.
 * Architected and developed the pipelines and back-end systems for training and deployment of those models.
 * Created tools to help users add training data where it is needed as well as gain insights about how the system is performing.
 * Developing asynchronous web services using and improving their security
-* Main tools: python, fast.ai, PyTorch, Pandas, Tornado web server, MongoDB 
+* Main tools: python, fast.ai, Pandas, PyTorch, Tornado web server, MongoDB 
 
 `2017 - 2019`
 __INFN Fellowship, for non-Italian citizens for research activity in Experimental Physics, Italian National Institute for Nuclear Physics, Padova__
 
 * Became the lead author for the analysis "Search for nonresonant Higgs boson pair production in the bbbb final state" and lead it to publication: 
-[Journal of High Energy Physics 04 (2019) 112](https://arxiv.org/abs/1810.11854) - the analysis is based on novel idea for modelling the hard to simulate QCD multijet process using clustering 
+ [Journal of High Energy Physics 04 (2019) 112](https://arxiv.org/abs/1810.11854) - 
+ the analysis is based on novel idea for modelling the hard to simulate QCD multijet process using clustering
+ and uses classification methods for signal-background separation.
 * Took care of the operation of the CMS detector as a data acquisition (DAQ) shifter
-* Main tools used: python, numpy, scikit-learn, Pandas, C++
-
+* Main tools used: python, numpy, scikit-learn, Pandas, XGBoost, C++
 
 `2010 - 2017`
 __Engineer and Researcher, KBFI (National Institute for Chemical Physics and Biophysics), Tallinn, Estonia__
@@ -93,7 +90,8 @@ supervisors Andrea Giammanco, Mario Kadastik, Martti Raidal
 `2007 - 2009`
 __MSc in Computer Science, University of Tartu__
 
-* Thesis: "Ripple-Down Rule Sets and MDL Learning", supervisors Jaak Vilo and Meelis Kull
+* Thesis: "Ripple-Down Rule Sets and MDL Learning", supervisors Jaak Vilo and Meelis Kull - used the minimal description length (MDL) principle to 
+learn rule sets with exceptions that are also naturally understandable to humans.
 
 `2003 - 2007`
 __BSc in Physics, University of Tartu__
