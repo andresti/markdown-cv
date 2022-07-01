@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: CV Andres Tiko
+title: Andres Tiko
 ---
 # Andres Tiko
 
@@ -39,14 +39,25 @@ Nowadays, I'm mostly interested in applying my skills to topics connected to mac
 
 ## Employment
 
-`2019 - `
+`2022 -`
+__AI & Backend Developer, Zurich Insurance Company Ltd__
+* Continuing the work developing virtual assistants after AlphaBlues was acquire by Zurich Insurance Company
+
+
+`2019 - 2021`
 __Back-end developer, data scientist, AlphaBlues, a company developing automated customer service solutions using virtual assistants__
 
 * Introduced modern deep learning based models for natural language processing (NLP) for detecting the intent of a user interacting with a virtual assistant.
 * Architected and developed the pipelines and back-end systems for training and deployment of those models.
 * Created tools to help users add training data where it is needed as well as gain insights about how the system is performing.
-* Developing asynchronous web services using and improving their security
-* Main tools: python, fast.ai, Pandas, PyTorch, Tornado web server, MongoDB 
+* Developing asynchronous web services and improving their security
+* Main tools: python, fast.ai, Pandas, PyTorch, Tornado web server, MongoDB, Docker, AWS
+
+`2021`
+__Data scraping project for University of Tartu research project "Academic Writing in the Baltic States: Rhetorical Structures through culture(s) and languages"
+
+* Wrote the necessay scripts and scraped various academic writing content (tens of thousands of files) for the research project
+
 
 `2017 - 2019`
 __INFN Fellowship, for non-Italian citizens for research activity in Experimental Physics, Italian National Institute for Nuclear Physics, Padova__
