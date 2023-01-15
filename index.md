@@ -11,11 +11,15 @@ Software developer, machine learning practitioner, retired particle physicist
 
 ## Introduction
 
-For many years, I worked on the front lines of science as a particle physicist at the CMS experiment at CERN, analyzing data collected from particle collisions to measure Nature's most fundamental processes. I've presented my (and other people's) work in international conferences and received prizes for my posters.
+For many years, I worked on the front lines of science as a particle physicist at the CMS experiment at CERN,
+analyzing data collected from particle collisions to measure Nature's most fundamental processes.
+I've presented my (and other people's) work in international conferences and received prizes for my posters.
 
-At various other times I've also studied computer science and worked on practical business problems as a software developer. The unique skill set obtained through these experiences has given me a good background to solve various quantitative problems.
+At various other times I've also studied computer science and worked on practical business problems as a software developer and machine learning engineer.
+The unique skill set obtained through these experiences has given me a good background to solve various quantitative problems.
 
-Nowadays, I'm mostly interested in applying my skills to topics connected to machine learning, in which I have experience starting from my Master's studies, through my career in physics up to my current job in creating virtual assistants.
+Nowadays, I'm mostly interested in applying my skills solving interesting problems to solve important problems in the world.
+As a technical lead in Soulie, I'm working for better internet with less distractions and more freedom of choice.
 
 <!-- Always up for new intellectually stimulating problems to improve the world in some way. -->
 
@@ -40,9 +44,14 @@ Nowadays, I'm mostly interested in applying my skills to topics connected to mac
 
 ## Employment
 
-`2022 -`
+`2022 - `
+__Technical Lead, Soulie__
+* Leading the technical aspects of building a personal recommendation app that provides users enhanced knowledge, less mindless scrolling and control over their feed
+
+`2022 Jan - Oct`
 __AI & Backend Developer, Zurich Insurance Company Ltd__
-* Continuing the work developing virtual assistants after AlphaBlues was acquire by Zurich Insurance Company
+
+* Continuing the work developing virtual assistants after AlphaBlues was acquired by Zurich Insurance Company (as described below)
 
 
 `2019 - 2021`
@@ -57,7 +66,7 @@ __Back-end developer, data scientist, AlphaBlues, a company developing automated
 `2021`
 __Data scraping project for University of Tartu research project "Academic Writing in the Baltic States: Rhetorical Structures through culture(s) and languages"
 
-* Wrote the necessay scripts and scraped various academic writing content (tens of thousands of files) for the research project
+* Wrote the necessary scripts and scraped various academic writing content (tens of thousands of files) for the research project
 
 
 `2017 - 2019`
