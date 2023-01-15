@@ -18,8 +18,8 @@ I've presented my (and other people's) work in international conferences and rec
 At various other times I've also studied computer science and worked on practical business problems as a software developer and machine learning engineer.
 The unique skill set obtained through these experiences has given me a good background to solve various quantitative problems.
 
-Nowadays, I'm mostly interested in applying my skills solving interesting problems to solve important problems in the world.
-As a technical lead in Soulie, I'm working for better internet with less distractions and more freedom of choice.
+Nowadays, I'm mostly interested in applying my skills to difficult problems to solve important challenges in the world.
+As a technical lead in Soulie, I'm working for a better internet with less distractions and more freedom of choice.
 
 <!-- Always up for new intellectually stimulating problems to improve the world in some way. -->
 
