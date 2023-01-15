@@ -24,9 +24,10 @@ Nowadays, I'm mostly interested in applying my skills to topics connected to mac
 
 * Data analysis and machine learning (Scikit-learn, Pandas, fastai, PyTorch, XGBoost)
 * Research
-* Programming and software development (Python, Tornado, bash, git, SQL, C/C++, Java)
+* Software development and architecture (mainly with Python-based stacks)
 * Problem solving
 * Presenting 
+* Technical leadership
 
 <!--- 
 ### Languages
