@@ -18,7 +18,7 @@ I've presented my (and other people's) work in international conferences and rec
 At various other times I've also studied computer science and worked on practical business problems as a software developer and machine learning engineer.
 The unique skill set obtained through these experiences has given me a good background to solve various quantitative problems.
 
-Nowadays, I'm mostly interested in applying my skills to difficult problems to solve important challenges in the world.
+Nowadays, I'm mostly interested in applying my skills to difficult problems to solve important practical challenges in the world.
 As a technical lead in Soulie, I'm working for a better internet with less distractions and more freedom of choice.
 
 <!-- Always up for new intellectually stimulating problems to improve the world in some way. -->
@@ -30,7 +30,6 @@ As a technical lead in Soulie, I'm working for a better internet with less distr
 * Research
 * Software development and architecture (mainly with Python-based stacks)
 * Problem solving
-* Presenting 
 * Technical leadership
 
 <!--- 
@@ -44,9 +43,16 @@ As a technical lead in Soulie, I'm working for a better internet with less distr
 
 ## Employment
 
+
 `2022 - `
 __Technical Lead, Soulie__
-* Leading the technical aspects of building a personal recommendation app that provides users enhanced knowledge, less mindless scrolling and control over their feed
+* Leading the development of an app helping users spend their time mindfully by recommending content based on their goals and preferences and encouraging focusing instead op mindless scrolling
+* Leading the development from prototype to public release
+* Managing the technical team
+* Architecting and building the backend systems and APIs (Python, FastAPI, MongoDB, Docker, AWS)
+* Building the infrastructure in AWS etc.
+* Improving the machine learning systems for making recommendations
+
 
 `2022 Jan - Oct`
 __AI & Backend Developer, Zurich Insurance Company Ltd__
@@ -268,6 +274,10 @@ Ranked 10th in Kaggle [20 Newsgroups Ciphertext Challenge](https://www.kaggle.co
 
 `2018`
 [Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency), Princeton (98% score)
+
+`2015`
+Training Session "Government, Security, and Conflict in the Cyber Age", Cyber Studies Programme at Oxford University’s
+Department of Politics and International Relations
 
 ### General Computer Science
 
