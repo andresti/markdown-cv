@@ -4,7 +4,7 @@ title: Andres Tiko
 ---
 # Andres Tiko
 
-Software developer, machine learning practitioner, retired particle physicist
+Software developer, tech lead & CTO, machine learning practitioner, retired particle physicist
 
 [e-mail](mailto:tikoandres+cv@gmail.com) |
 [Linkedin](https://www.linkedin.com/in/tiko/)
@@ -19,16 +19,17 @@ At various other times I've also studied computer science and worked on practica
 The unique skill set obtained through these experiences has given me a good background to solve various quantitative problems.
 
 Nowadays, I'm mostly interested in applying my skills to difficult problems to solve important practical challenges in the world.
-As a technical lead in Soulie, I'm working for a better internet with less distractions and more freedom of choice.
+As a technical lead and CTO at Soulie, I've been working for a better internet with less distractions and more freedom of choice.
+Even though I've always considered myself an thoroughly technical person, the recent time as CTO has shown that I'm also somewhat capable of leading and managing if needed.
 
 <!-- Always up for new intellectually stimulating problems to improve the world in some way. -->
 
 
 ## Skills
 
-* Data analysis and machine learning (Scikit-learn, Pandas, fastai, PyTorch, XGBoost)
-* Research
 * Software development and architecture (mainly with Python-based stacks)
+* Data analysis and machine learning
+* Research
 * Problem solving
 * Technical leadership
 
@@ -45,13 +46,14 @@ As a technical lead in Soulie, I'm working for a better internet with less distr
 
 
 `2022 - `
-__Technical Lead, Soulie__
-* Leading the development of an app helping users spend their time mindfully by recommending content based on their goals and preferences and encouraging focusing instead op mindless scrolling
+__Technical Lead -> CTO & co-founder, Soulie__
+* Leading the development of an app helping users spend their time mindfully by recommending content based on their goals and preferences and encouraging focusing instead of mindless scrolling
 * Leading the development from prototype to public release
 * Managing the technical team
 * Architecting and building the backend systems and APIs (Python, FastAPI, MongoDB, Docker, AWS)
 * Building the infrastructure in AWS etc.
 * Improving the machine learning systems for making recommendations
+* Started as a tech lead, joined the co-founders team as CTO
 
 
 `2022 Jan - Oct`
@@ -70,7 +72,7 @@ __Back-end developer, data scientist, AlphaBlues, a company developing automated
 * Main tools: python, fast.ai, Pandas, PyTorch, Tornado web server, MongoDB, Docker, AWS
 
 `2021`
-__Data scraping project for University of Tartu research project "Academic Writing in the Baltic States: Rhetorical Structures through culture(s) and languages"
+__Data scraping project for University of Tartu research project "Academic Writing in the Baltic States: Rhetorical Structures through culture(s) and languages"__
 
 * Wrote the necessary scripts and scraped various academic writing content (tens of thousands of files) for the research project
 
@@ -292,4 +294,4 @@ Hiking, photography, badminton
 -->
 <!-- ### Footer
 
-Last updated: May 2019 -->
+Last updated: April 2024 -->
