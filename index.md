@@ -4,7 +4,7 @@ title: Andres Tiko
 ---
 # Andres Tiko
 
-Software developer, tech lead & CTO, machine learning practitioner, retired particle physicist
+Machine learning practitioner, Software developer, tech lead & CTO, retired particle physicist
 
 [e-mail](mailto:tikoandres+cv@gmail.com) |
 [Linkedin](https://www.linkedin.com/in/tiko/)
@@ -19,7 +19,6 @@ At various other times I've also studied computer science and worked on practica
 The unique skill set obtained through these experiences has given me a good background to solve various quantitative problems.
 
 Nowadays, I'm mostly interested in applying my skills to difficult problems to solve important practical challenges in the world.
-As a technical lead and CTO at Soulie, I've been working for a better internet with less distractions and more freedom of choice.
 Even though I've always considered myself an thoroughly technical person, the recent time as CTO has shown that I'm also somewhat capable of leading and managing if needed.
 
 <!-- Always up for new intellectually stimulating problems to improve the world in some way. -->
@@ -44,8 +43,13 @@ Even though I've always considered myself an thoroughly technical person, the re
 
 ## Employment
 
+`2024 Jun - present`
+__Staff Machine Learning Engineer, Zendesk__
+* Developing, maintaining and monitoring ML pipelines for high-volume data processing (Apache Beam, Celery, Redis, BigQuery, Kubernetes, Datadog, Grafana, GCP)
+* Developed a new service that enables customers to create their own prompt-based categories to evaluate customer service tickets (Langchain, LLMs, FastAPI)
 
-`2022 - `
+
+`2022 - 2024`
 __Technical Lead -> CTO & co-founder, Soulie__
 * Leading the development of an app helping users spend their time mindfully by recommending content based on their goals and preferences and encouraging focusing instead of mindless scrolling
 * Leading the development from prototype to public release
